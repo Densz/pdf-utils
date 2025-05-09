@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eb20388-5fd2-4311-9cd4-890a4a2add44" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fix-label-size" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="21aQhv9FZGesOf9064gmt9qTiiZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Jest.formatUPS">
+    <configuration name="formatUPS" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/converter/converter.test.js" />
+      <test-names>
+        <test-name value="formatUPS" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="merge multiple pdfs" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/parser/converter.test.js" />
+      <test-names>
+        <test-name value="merge multiple pdfs" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.formatUPS" />
+        <item itemvalue="Jest.merge multiple pdfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb20388-5fd2-4311-9cd4-890a4a2add44" name="Default Changelist" comment="" />
+      <created>1638176840137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638176840137</updated>
+      <workItem from="1638176841593" duration="46000" />
+      <workItem from="1638176892141" duration="765000" />
+      <workItem from="1638251233888" duration="853000" />
+      <workItem from="1638867453528" duration="2960000" />
+      <workItem from="1638931724238" duration="659000" />
+      <workItem from="1638933034943" duration="665000" />
+      <workItem from="1638938819453" duration="16000" />
+      <workItem from="1638938844142" duration="5220000" />
+      <workItem from="1638948214295" duration="1190000" />
+      <workItem from="1639031764609" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1638940482212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638940482212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="52" key="CommitChangelistDialog2" timestamp="1638943133881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="318" y="52" key="CommitChangelistDialog2/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638943133881" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog" timestamp="1638948857442">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.0.1440.900/-171.-1057.1920.1057@0.0.1440.900" timestamp="1638948857442" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638948239507" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1638940593364" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.23.1440.877/-171.-1057.1920.1057@0.23.1440.877" timestamp="1638948271333" />
+    <state x="100" y="79" width="1240" height="719" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1638945155909" />
+    <state width="1419" height="278" key="GridCell.Tab.0.bottom" timestamp="1638946308276">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="278" key="GridCell.Tab.0.bottom/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308276" />
+    <state width="1419" height="278" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638944925725" />
+    <state width="1419" height="278" key="GridCell.Tab.0.center" timestamp="1638946308274">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="278" key="GridCell.Tab.0.center/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308274" />
+    <state width="1419" height="278" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1638944925724" />
+    <state width="1419" height="278" key="GridCell.Tab.0.left" timestamp="1638946308273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="278" key="GridCell.Tab.0.left/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308273" />
+    <state width="1419" height="278" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1638944925723" />
+    <state width="1419" height="278" key="GridCell.Tab.0.right" timestamp="1638946308275">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="278" key="GridCell.Tab.0.right/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308275" />
+    <state width="1419" height="278" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1638944925725" />
+    <state width="1419" height="433" key="GridCell.Tab.1.bottom" timestamp="1638946308261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.1.bottom/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308261" />
+    <state width="1419" height="433" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638944923854" />
+    <state width="1419" height="433" key="GridCell.Tab.1.center" timestamp="1638946308259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.1.center/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308259" />
+    <state width="1419" height="433" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1638944923853" />
+    <state width="1419" height="433" key="GridCell.Tab.1.left" timestamp="1638946308258">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.1.left/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308258" />
+    <state width="1419" height="433" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1638944923852" />
+    <state width="1419" height="433" key="GridCell.Tab.1.right" timestamp="1638946308260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.1.right/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308260" />
+    <state width="1419" height="433" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1638944923853" />
+    <state width="1419" height="433" key="GridCell.Tab.2.bottom" timestamp="1638946308263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.2.bottom/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308263" />
+    <state width="1419" height="433" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638944923856" />
+    <state width="1419" height="433" key="GridCell.Tab.2.center" timestamp="1638946308262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.2.center/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308262" />
+    <state width="1419" height="433" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1638944923855" />
+    <state width="1419" height="433" key="GridCell.Tab.2.left" timestamp="1638946308261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.2.left/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308261" />
+    <state width="1419" height="433" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1638944923854" />
+    <state width="1419" height="433" key="GridCell.Tab.2.right" timestamp="1638946308263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.2.right/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308263" />
+    <state width="1419" height="433" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1638944923855" />
+    <state width="1419" height="433" key="GridCell.Tab.3.bottom" timestamp="1638946308267">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.3.bottom/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308267" />
+    <state width="1419" height="433" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1638944923859" />
+    <state width="1419" height="433" key="GridCell.Tab.3.center" timestamp="1638946308266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.3.center/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308266" />
+    <state width="1419" height="433" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1638944923858" />
+    <state width="1419" height="433" key="GridCell.Tab.3.left" timestamp="1638946308265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.3.left/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308265" />
+    <state width="1419" height="433" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1638944923857" />
+    <state width="1419" height="433" key="GridCell.Tab.3.right" timestamp="1638946308267">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="433" key="GridCell.Tab.3.right/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638946308267" />
+    <state width="1419" height="433" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1638944923858" />
+    <state x="144" y="79" key="MergeDialog" timestamp="1638940472479">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="MergeDialog/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638940472479" />
+    <state x="433" y="173" key="MultipleFileMergeDialog" timestamp="1638940472548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="173" key="MultipleFileMergeDialog/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638940472548" />
+    <state x="495" y="168" key="RollbackChangesDialog" timestamp="1638943208736">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="495" y="168" key="RollbackChangesDialog/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638943208736" />
+    <state x="374" y="207" width="691" height="486" key="find.popup" timestamp="1638941961083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="207" width="691" height="486" key="find.popup/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638941961083" />
+    <state x="475" y="170" key="git4idea.branch.GitSmartOperationDialog" timestamp="1638867479862">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="475" y="170" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1638867479862" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1638942362940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-171.-1080.1920.1080@0.0.1440.900" timestamp="1638942362940" />
+  </component>
+</project>

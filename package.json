@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      "@ftlab/pdf-utils@0.1.5",
+      "/Users/dzheng/WORK/esendeo/esendeo-api"
+    ]
+  ],
+  "_from": "@ftlab/pdf-utils@0.1.5",
+  "_id": "@ftlab/pdf-utils@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha512-FU2mtQc/El+eOQO6nTZheaFC+HrY3n790h8i6ZoDpvfgNKyBjf70xWEK3vyu6arIQcWKM8t744IhNs1eoHLm2Q==",
+  "_location": "/@ftlab/pdf-utils",
+  "_phantomChildren": {
+    "@pdf-lib/upng": "1.0.1",
+    "color": "3.2.1",
+    "detect-libc": "1.0.3",
+    "node-addon-api": "2.0.2",
+    "npmlog": "4.1.2",
+    "pako": "1.0.11",
+    "prebuild-install": "5.3.6",
+    "simple-get": "3.1.1",
+    "tar": "6.2.1",
+    "tunnel-agent": "0.6.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ftlab/pdf-utils@0.1.5",
+    "name": "@ftlab/pdf-utils",
+    "escapedName": "@ftlab%2fpdf-utils",
+    "scope": "@ftlab",
+    "rawSpec": "0.1.5",
+    "saveSpec": null,
+    "fetchSpec": "0.1.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ftlab/pdf-utils/-/pdf-utils-0.1.5.tgz",
+  "_spec": "0.1.5",
+  "_where": "/Users/dzheng/WORK/esendeo/esendeo-api",
+  "author": "",
+  "auto-changelog": {
+    "output": "CHANGELOG.md",
+    "template": "keepachangelog",
+    "unreleased": true,
+    "commitLimit": false
+  },
+  "dependencies": {
+    "pdf-lib": "1.4.1",
+    "pdf2json": "1.1.8",
+    "sharp": "0.25.1"
+  },
+  "description": "Common PDF Utils",
+  "devDependencies": {
+    "auto-changelog": "^1.16.2",
+    "eslint": "^6.8.0",
+    "jest": "^23.6.0",
+    "yorkie": "^2.0.0"
+  },
+  "engines": {
+    "node": "= 12.x",
+    "npm": ">= 6.0.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "es6": true,
+      "jest": true
+    },
+    "extends": [
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2018
+    },
+    "rules": {
+      "no-unused-vars": 1
+    }
+  },
+  "eslintIgnore": [
+    "build",
+    "node_modules",
+    "coverage"
+  ],
+  "gitHooks": {
+    "pre-push": "npm test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "@ftlab/pdf-utils",
+  "scripts": {
+    "coverage": "jest --coverage",
+    "lint": "eslint --fix .",
+    "test": "jest",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "version": "0.1.5"
+}
