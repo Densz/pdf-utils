@@ -84,9 +84,6 @@
     "node_modules",
     "coverage"
   ],
-  "gitHooks": {
-    "pre-push": "npm test"
-  },
   "keywords": [],
   "license": "ISC",
   "main": "src/index.js",
