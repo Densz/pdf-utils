@@ -58,10 +58,6 @@
     "jest": "^23.6.0",
     "yorkie": "^2.0.0"
   },
-  "engines": {
-    "node": "= 12.x",
-    "npm": ">= 6.0.0"
-  },
   "eslintConfig": {
     "root": true,
     "env": {
